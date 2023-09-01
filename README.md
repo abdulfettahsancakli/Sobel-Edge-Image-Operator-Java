@@ -2,6 +2,9 @@
 A GUI application was created for the project carried out within the scope of Advance Programming course, where each tab will show a different aspect of an image that
 is provided for you. Please make sure to use the image provided by the given documentation
 
+ Specify the image
+- ![Image](https://github.com/abdulfettahsancakli/Sobel-Edge-Image-Operator-Java/blob/main/Outputs%20%26%20Screenshots/SobelCircle.png)
+
 Tab 0 : Show the original image in this tab
 - ![Tab0](https://github.com/abdulfettahsancakli/Sobel-Edge-Image-Operator-Java/blob/main/Outputs%20%26%20Screenshots/Original.png)
 
